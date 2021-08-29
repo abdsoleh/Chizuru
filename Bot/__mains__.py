@@ -40,7 +40,7 @@ def send_help(chat_id, text, keyboard=None):
     
     
 PM_START_TEXT = f"""
-Hewwo, uwu >////<.
+Hewwo, uwu >/////<.
 Tap on /help to know all my commands!
 """ 
 
